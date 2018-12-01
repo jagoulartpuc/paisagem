@@ -1,0 +1,28 @@
+{
+  "name": "new-fluxo-api",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "consign": "^0.1.6",
+    "cors": "^2.8.4",
+    "debug": "~2.6.9",
+    "express": "^4.16.3",
+    "express-fileupload": "^1.0.0-alpha.1",
+    "finale-rest": "^0.1.5",
+    "fs": "0.0.1-security",
+    "http-errors": "~1.6.2",
+    "jsonwebtoken": "^8.2.1",
+    "morgan": "~1.9.0",
+    "multer": "^1.4.1",
+    "mysql2": "^1.5.3",
+    "path": "^0.12.7",
+    "restify": "^7.1.0",
+    "sequelize": "^4.37.6",
+    "sequelize-cli": "^4.0.0",
+    "sha256": "^0.2.0",
+    "uuid": "^3.3.2"
+  }
+}

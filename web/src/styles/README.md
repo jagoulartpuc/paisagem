@@ -1,0 +1,1 @@
+Para fins de organização. Uma opção é manter todos os estilos nesta pasta ao invés de junto dos seus containers/componentes.

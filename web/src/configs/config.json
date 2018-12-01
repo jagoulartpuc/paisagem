@@ -1,0 +1,14 @@
+{
+  "development": {
+    "api_url": "http://localhost:4000/api",
+    "api" : "http://localhost:4000"
+  },
+  "hml": {
+    "api_url": "http://localhost:4501/api",
+    "api" : "http://localhost:4501"
+  },
+  "production": {
+    "api_url": "http://www.hml.ages.pucrs.br:4501/api",
+    "api" : "http://www.hml.ages.pucrs.br:4501"
+  }
+}
